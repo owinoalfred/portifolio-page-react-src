@@ -1,8 +1,10 @@
 import { BsSpotify, BsArrowRightShort } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
-import { AiOutlineTwitter, AiOutlineGithub } from "react-icons/ai";
+import { AiOutlineTwitter, AiOutlineGithub,  } from "react-icons/ai";
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
-import { FaDiscord } from "react-icons/fa"
+import { FaDiscord } from "react-icons/fa";
+import {AiTwotonePhone} from 'react-icons/ai/index'
+
 
 export {
   BsSpotify,
@@ -12,4 +14,5 @@ export {
   HiOutlineArrowNarrowRight,
   BsArrowRightShort,
   FaDiscord,
+  AiTwotonePhone,
 };
