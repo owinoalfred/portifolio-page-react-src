@@ -29,7 +29,7 @@ const Header: FC = () => {
         <TextLink text="Contact" url="#contact" />
       </p>
 
-      <Link href="https://github.com/kr-anurag/portfolio" passHref>
+      <Link href="https://github.com/owinoalfred" passHref>
         <a
           className="rounded-lg border-2 border-zinc-900 bg-zinc-800 p-2 text-2xl text-white hover:border-white"
           target="_blank"

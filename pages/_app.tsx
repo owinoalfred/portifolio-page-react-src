@@ -24,21 +24,21 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Anurag | Frontend Developer"
-        titleTemplate="Anurag | Frontend Developer"
-        defaultTitle="Anurag | Frontend Developer"
-        description="Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!"
+        title="Alfred | owino | Python Developer | "
+        titleTemplate="Alfred |Full-Stack Dev"
+        defaultTitle="Alfred  | Python Dev, Javascript Dev, GCP enthusiast"
+        description="Hey! I'm Alfred, A python develoiper making desktop and mobile apps as well as websites!"
         openGraph={{
-          url: "https://www.anurag.tech/",
-          title: "Anurag | Frontend Developer",
+          url: "https://www.owino.cc",
+          title: "Alfred | Fullstack python  Developer (Tkinter and Kivy)",
           description:
-            "Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!",
+            "Hey! I'm Alfred, A Python Developer recently learning to build Artificial inteligence machine learning models that could shape out hand held devices !",
           images: [
             {
-              url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
+              url: "https://avatars.githubusercontent.com/u/59254825?s=40&v=4",
               width: 800,
               height: 420,
-              alt: "Anurag | Frontend Developer",
+              alt: "Alfred | Python | React | Vue | Tailwindcss ",
             },
           ],
         }}
@@ -56,7 +56,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         ]}
       />
       <Head>
-        <link rel="icon" type="image/png" href="/assests/avatar.png" />
+        <link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/59254825?s=40&v=4" />
       </Head>
       <Component {...pageProps} />
     </>
