@@ -14,8 +14,8 @@ const Projects: React.FC = () => {
             rel="noopener noreferrer"
           >
             <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
-              <p className="text-xl font-semibold">Vault3</p>
-              <p>Your safest decentralized vault</p>
+              <p className="text-xl font-semibold">Browser</p>
+              <p>Check out my browser app on my github</p>
             </div>
           </a>
         </Link>
@@ -27,8 +27,8 @@ const Projects: React.FC = () => {
             rel="noopener noreferrer"
           >
             <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
-              <p className="text-xl font-semibold">Orbits UI</p>
-              <p>React component library built with Tailwind CSS</p>
+              <p className="text-xl font-semibold">Pronouncation App</p>
+              <p>Check out my Pronouncation App ready for use and free Download.</p>
             </div>
           </a>
         </Link>
